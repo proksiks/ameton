@@ -1,0 +1,51 @@
+html {
+  font-size: 10px;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: "Museo-Sans";
+  font-size: 1.5rem;
+  color: $text-color;
+}
+
+.container {
+  max-width: 1280px;
+  padding: 0 40px;
+  margin: 0 auto;
+  @media (max-width: 768px) {
+    max-width: 1240px;
+    padding: 0 20px;
+  }
+}
+
+.main {
+  padding: 40px 0;
+}
+
+.list-reset {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.title {
+  font-weight: 600;
+  font-size: 4rem;
+  line-height: 120%;
+  @media (max-width: 1023px) {
+    font-size: 3.2rem;
+  }
+  @media (max-width: 768px) {
+    font-size: 2.6rem;
+  }
+  @media (max-width: 480px) {
+    font-size: 2.2rem;
+  }
+}
