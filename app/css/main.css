@@ -585,7 +585,7 @@ body {
   right: 0;
 }
 .swiper-button-next::after {
-  background-image: url("../../../img/main-page/slider/icon-arrow.svg");
+  background-image: url("../img/main-page/slider/icon-arrow.svg");
 }
 
 .swiper-button-prev {
@@ -595,7 +595,7 @@ body {
   -webkit-transform: rotate(-180deg);
   -ms-transform: rotate(-180deg);
   transform: rotate(-180deg);
-  background-image: url("../../../img/main-page/slider/icon-arrow.svg");
+  background-image: url("../img/main-page/slider/icon-arrow.svg");
 }
 
 .accordion {
