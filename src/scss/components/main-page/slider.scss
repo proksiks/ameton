@@ -85,13 +85,13 @@
 .swiper-button-next {
   right: 0;
   &::after {
-    background-image: url("../../../img/main-page/slider/icon-arrow.svg");
+    background-image: url("../img/main-page/slider/icon-arrow.svg");
   }
 }
 .swiper-button-prev {
   left: 0;
   &::after {
     transform: rotate(-180deg);
-    background-image: url("../../../img/main-page/slider/icon-arrow.svg");
+    background-image: url("../img/main-page/slider/icon-arrow.svg");
   }
 }
