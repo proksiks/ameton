@@ -133,7 +133,7 @@ body {
   top: 37px;
   width: 275px;
   height: 175px;
-  background-image: url("../../../img/main-page/hero/airplans.svg");
+  background-image: url("../img/main-page/hero/airplans.svg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: 275px 175px;
@@ -155,7 +155,7 @@ body {
   bottom: 0;
   width: 278px;
   height: 226px;
-  background-image: url("../../../img/main-page/hero/hand.svg");
+  background-image: url("../img/main-page/hero/hand.svg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: 278px 226px;
@@ -637,7 +637,7 @@ body {
   transform: translateY(-50%);
   width: 7px;
   height: 11px;
-  background-image: url("../../../img/main-page/accordion/icon-accordion-arrow.svg");
+  background-image: url("../img/main-page/accordion/icon-accordion-arrow.svg");
   pointer-events: none;
 }
 @media (max-width: 480px) {
